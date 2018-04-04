@@ -1,5 +1,6 @@
 # Sake - Swift Make 
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 <a href="https://travis-ci.org/xcodeswift/sake">
 <img src="https://travis-ci.org/xcodeswift/sake.svg?branch=master" alt="Travis"/>
 </a>
